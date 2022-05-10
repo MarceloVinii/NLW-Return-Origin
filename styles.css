@@ -1,0 +1,15 @@
+:root {
+  font-size: 62.5%; 
+  /* 62.5 é a referencia de 10px, ou o mesmo que (10 * 100) / 16 = 62.5 
+  Fazendo dessa forma, cada 1rem é que vale a 10px.
+  */
+}
+
+body {
+  font-family: 'DM Sans';
+  font-size: 1.6rem;
+}
+
+h4 {
+  font-size: 1.4rem;
+}
